@@ -1,4 +1,4 @@
-46 начальных позиций в шахматном варианте Инь Ян:
+46 стартовых позиций в шахматном варианте Инь Ян:
 rbnrbKPq/ppppnppp/8/8/8/8/PPPPNPPP/RBNRBkpQ
 rqnrbKPb/ppppnppp/8/8/8/8/PPPPNPPP/RQNRBkpB
 rrnqbKPb/ppppnppp/8/8/8/8/PPPPNPPP/RRNQBkpB
