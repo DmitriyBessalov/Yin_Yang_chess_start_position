@@ -1,4 +1,6 @@
 Генератор 46 стартовых позиций в шахматном варианте Инь Ян:
+
+
 [rbnrbKPq/ppppnppp/8/8/8/8/PPPPNPPP/RBNRBkpQ](https://lichess.org/editor?fen=rbnrbKPq/ppppnppp/8/8/8/8/PPPPNPPP/RBNRBkpQ) \
 [rqnrbKPb/ppppnppp/8/8/8/8/PPPPNPPP/RQNRBkpB](https://lichess.org/editor?fen=rqnrbKPb/ppppnppp/8/8/8/8/PPPPNPPP/RQNRBkpB) \
 [rrnqbKPb/ppppnppp/8/8/8/8/PPPPNPPP/RRNQBkpB](https://lichess.org/editor?fen=rrnqbKPb/ppppnppp/8/8/8/8/PPPPNPPP/RRNQBkpB) \
